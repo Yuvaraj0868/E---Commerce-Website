@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+https://yuvaraj0868.github.io/E---Commerce-Website/sitemap.xml
